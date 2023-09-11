@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "페르마의 작은 정리.md",
+                "file": "유한체의 다항식으로의 표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "페르마의 작은 정리.md",
+                "file": "유한체의 다항식으로의 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "페르마의 작은 정리.md",
+                "file": "유한체의 다항식으로의 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "페르마의 작은 정리.md"
+                "file": "유한체의 다항식으로의 표현.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +147,15 @@
   },
   "active": "cc5cb1146d2ea0ad",
   "lastOpenFiles": [
-    "최대공약수.md",
-    "페르마의 작은 정리.md",
-    "유클리드 알고리즘.md",
-    "확장 유클리드 알고리즘.md",
-    "모듈러 역원.md",
+    "기약 다항식.md",
+    "유한체의 다항식으로의 표현.md",
     "Galois Field.md",
     "암호학.md",
+    "모듈러 역원.md",
+    "페르마의 작은 정리.md",
+    "최대공약수.md",
+    "유클리드 알고리즘.md",
+    "확장 유클리드 알고리즘.md",
     "feature & label.md",
     "Deep learning.md"
   ]
