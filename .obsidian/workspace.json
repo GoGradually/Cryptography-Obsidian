@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유클리드 알고리즘.md",
+                "file": "모듈러 역원.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유클리드 알고리즘.md",
+                "file": "모듈러 역원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유클리드 알고리즘.md",
+                "file": "모듈러 역원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유클리드 알고리즘.md"
+                "file": "모듈러 역원.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "cc5cb1146d2ea0ad",
   "lastOpenFiles": [
-    "최대공약수.md",
-    "유클리드 알고리즘.md",
-    "확장 유클리드 알고리즘.md",
+    "Galois Field.md",
     "암호학.md",
+    "최대공약수.md",
+    "확장 유클리드 알고리즘.md",
+    "유클리드 알고리즘.md",
     "모듈러 역원.md",
     "feature & label.md",
     "Deep learning.md"
