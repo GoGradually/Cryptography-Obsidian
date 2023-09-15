@@ -11,8 +11,12 @@
             "id": "ab51c2b5eb95d578",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "확장 유클리드 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "확장 유클리드 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "확장 유클리드 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "확장 유클리드 알고리즘.md"
+              }
             }
           }
         ]
@@ -137,21 +145,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1c5ae8e372d3212",
+  "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
     "유한체 다항식의서의 나눗셈.md",
-    "유한체.md",
-    "모듈러 역원.md",
-    "유한체 다항식에서의 덧셈과 뺄셈.md",
-    "Galois Field.md",
-    "암호학.md",
-    "유클리드 알고리즘.md",
+    "확장 유클리드 알고리즘.md",
     "유한체의 다항식으로의 표현.md",
     "유한체 다항식에서의 곱셈.md",
+    "유한체 다항식에서의 덧셈과 뺄셈.md",
+    "Galois Field.md",
+    "모듈러 역원.md",
+    "유한체.md",
+    "암호학.md",
+    "유클리드 알고리즘.md",
     "기약 다항식.md",
     "페르마의 작은 정리.md",
     "최대공약수.md",
-    "확장 유클리드 알고리즘.md",
     "feature & label.md",
     "Deep learning.md"
   ]
