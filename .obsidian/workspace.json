@@ -13,6 +13,12 @@
             "state": {
               "type": "graph",
               "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "기약 다항식.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -79,6 +85,7 @@
     ],
     "direction": "horizontal",
     "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "4a73cda9b3934f8b",
@@ -94,7 +101,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "AES.md",
+=======
+                "file": "기약 다항식.md",
+>>>>>>> 2a6d41bb710b94df4f110c4f9c666f4fbfb42e87
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "AES.md",
+=======
+                "file": "기약 다항식.md",
+>>>>>>> 2a6d41bb710b94df4f110c4f9c666f4fbfb42e87
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,6 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "AES.md"
               }
             }
@@ -145,6 +161,9 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+=======
+                "file": "기약 다항식.md"
+>>>>>>> 2a6d41bb710b94df4f110c4f9c666f4fbfb42e87
               }
             }
           }
@@ -164,6 +183,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< HEAD
   "active": "5d84ee8a61a4ade2",
   "lastOpenFiles": [
     "AES.md",
@@ -173,13 +193,25 @@
     "유한체 다항식에서의 덧셈과 뺄셈.md",
     "Galois Field.md",
     "암호학.md",
+=======
+  "active": "ab51c2b5eb95d578",
+  "lastOpenFiles": [
+>>>>>>> 2a6d41bb710b94df4f110c4f9c666f4fbfb42e87
     "유클리드 알고리즘.md",
     "유한체의 다항식으로의 표현.md",
     "유한체 다항식에서의 곱셈.md",
+    "Galois Field.md",
+    "모듈러 역원.md",
+    "확장 유클리드 알고리즘.md",
+    "암호학.md",
     "기약 다항식.md",
+    "유한체 다항식에서의 곱셈.md",
     "페르마의 작은 정리.md",
     "최대공약수.md",
     "확장 유클리드 알고리즘.md",
+    "유한체 다항식의서의 나눗셈.md",
+    "유한체 다항식에서의 덧셈과 뺄셈.md",
+    "유한체.md",
     "feature & label.md",
     "Deep learning.md"
   ]
