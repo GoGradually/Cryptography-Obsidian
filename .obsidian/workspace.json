@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유한체 다항식의서의 나눗셈.md",
+                "file": "암호화 모드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유한체 다항식의서의 나눗셈.md",
+                "file": "암호화 모드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유한체 다항식의서의 나눗셈.md",
+                "file": "암호화 모드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유한체 다항식의서의 나눗셈.md"
+                "file": "암호화 모드.md"
               }
             }
           }
@@ -147,37 +147,40 @@
   },
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
+    "CBC.md",
+    "CBC.jpg",
+    "암호화 모드.md",
+    "암호문 스틸링.md",
+    "암호문 스틸링 in CBC.jpeg",
+    "메시지 패딩.md",
+    "블록 암호화.md",
+    "암호화 알고리즘.md",
+    "ECB.md",
+    "ECB.jpeg",
+    "블록 암호 vs 스트림 암호.md",
+    "암호학.md",
+    "2023-09-21.md",
     "믹스컬럼(MixColumns).md",
     "라운드.md",
-    "AES.md",
+    "AES 복호화 과정.md",
+    "암호화 모듈을 복호화에 사용.jpeg",
+    "IMG_B87C11208072-1.jpeg",
     "AES 암호화 과정.md",
-    "라운드 별 구성.jpeg",
-    "AES 키 확장 방법.md",
-    "Key Expansion.jpeg",
-    "라운드 키 추가 (AddRoundKey).md",
-    "라운드 과정.jpeg",
-    "AES 디버깅 방법.md",
-    "라운드 키.md",
-    "믹스컬럼.jpeg",
-    "시프트로우드(ShiftRows).md",
-    "시프트로우.jpeg",
-    "서브바이트 (SubBytes).md",
-    "AES 데이터 구조.jpeg",
-    "subbyte 치환 테이블.jpeg",
-    "AES의 데이터 구조.md",
-    "유한체 다항식에서의 덧셈과 뺄셈.md",
-    "유한체 다항식에서의 곱셈.md",
-    "기약 다항식.md",
-    "유클리드 알고리즘.md",
-    "유한체의 다항식으로의 표현.md",
-    "Galois Field.md",
-    "모듈러 역원.md",
     "확장 유클리드 알고리즘.md",
-    "암호학.md",
+    "AES.md",
+    "AES 데이터 구조.jpeg",
     "페르마의 작은 정리.md",
     "최대공약수.md",
+    "유한체의 다항식으로의 표현.md",
     "유한체 다항식의서의 나눗셈.md",
-    "유한체.md",
-    "feature & label.md"
+    "유한체 다항식에서의 덧셈과 뺄셈.md",
+    "유한체 다항식에서의 곱셈.md",
+    "유클리드 알고리즘.md",
+    "시프트로우드(ShiftRows).md",
+    "서브바이트 (SubBytes).md",
+    "라운드 별 구성.jpeg",
+    "Key Expansion.jpeg",
+    "라운드 과정.jpeg",
+    "믹스컬럼.jpeg"
   ]
 }
