@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소수 판정.md",
+                "file": "중국인의 나머지 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소수 판정.md",
+                "file": "중국인의 나머지 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소수 판정.md",
+                "file": "중국인의 나머지 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소수 판정.md"
+                "file": "중국인의 나머지 정리.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
     "정수론.md",
-    "암호학.md",
+    "중국인의 나머지 정리.md",
     "소수 판정.md",
+    "암호학.md",
     "오일러 정리.md",
     "오일러 피 함수.md",
     "reduced set of residues.md",
@@ -191,7 +192,6 @@
     "블록 암호화.md",
     "블록 암호 vs 스트림 암호.md",
     "ECB.md",
-    "CBC.md",
-    "AES 복호화 과정.md"
+    "CBC.md"
   ]
 }
