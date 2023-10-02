@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d0be1618158488",
+        "id": "f7ea81486b914e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea41324a867972d5",
+            "id": "ab51c2b5eb95d578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "소수 판정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "4a73cda9b3934f8b",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "소수 판정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "소수 판정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "소수 판정.md"
+              }
             }
           },
           {
-            "id": "29ef67dad1158793",
+            "id": "342b9652c8d66e85",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -137,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,42 +155,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ea41324a867972d5",
+  "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
-    "XTS-AES.md",
-    "Pasted image 20230929144008.png",
-    "암호화 모드.md",
-    "Tweakable Block Cipher.md",
+    "정수론.md",
     "암호학.md",
-    "블록 암호.md",
+    "소수 판정.md",
+    "오일러 정리.md",
+    "오일러 피 함수.md",
+    "reduced set of residues.md",
     "암호화 알고리즘.md",
     "스트림 암호.md",
-    "CTR.md",
+    "블록 암호.md",
+    "XTS-AES.md",
+    "Tweakable Block Cipher.md",
+    "Pasted image 20230929144008.png",
     "Pasted image 20230929142744.png",
-    "OFB.md",
     "Pasted image 20230929142137.png",
-    "CFB.md",
     "Pasted image 20230929141213.png",
     "Pasted image 20230928235643.png",
     "Pasted image 20230928235641.png",
     "Pasted image 20230928235635.png",
     "Pasted image 20230928235621.png",
-    "블록 암호 vs 스트림 암호.md",
-    "암호문 스틸링.md",
-    "메시지 패딩.md",
-    "CBC.md",
-    "AES 키 확장 방법.md",
-    "라운드 키 추가 (AddRoundKey).md",
-    "라운드 키.md",
-    "CBC.jpg",
-    "암호문 스틸링 in CBC.jpeg",
-    "ECB.md",
-    "2023-09-21.md",
-    "믹스컬럼(MixColumns).md",
+    "OFB.md",
+    "CTR.md",
+    "CFB.md",
     "라운드.md",
-    "AES 복호화 과정.md",
-    "AES 암호화 과정.md",
-    "확장 유클리드 알고리즘.md",
-    "AES.md"
+    "메시지 패딩.md",
+    "라운드 키.md",
+    "라운드 키 추가 (AddRoundKey).md",
+    "AES 키 확장 방법.md",
+    "Key Expansion.jpeg",
+    "라운드 과정.jpeg",
+    "암호화 모드.md",
+    "암호문 스틸링.md",
+    "블록 암호화.md",
+    "블록 암호 vs 스트림 암호.md",
+    "ECB.md",
+    "CBC.md",
+    "AES 복호화 과정.md"
   ]
 }
