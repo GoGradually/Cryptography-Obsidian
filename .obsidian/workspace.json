@@ -11,12 +11,8 @@
             "id": "ab51c2b5eb95d578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "중국인의 나머지 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중국인의 나머지 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "중국인의 나머지 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "중국인의 나머지 정리.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +151,15 @@
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
     "정수론.md",
-    "중국인의 나머지 정리.md",
-    "소수 판정.md",
     "암호학.md",
+    "이산로그 (Discrete Logarithms).md",
+    "원시근 (primitive root).md",
+    "Pasted image 20231005150726.png",
+    "Pasted image 20231005150443.png",
     "오일러 정리.md",
     "오일러 피 함수.md",
+    "중국인의 나머지 정리.md",
+    "소수 판정.md",
     "reduced set of residues.md",
     "암호화 알고리즘.md",
     "스트림 암호.md",
@@ -185,13 +182,9 @@
     "라운드 키.md",
     "라운드 키 추가 (AddRoundKey).md",
     "AES 키 확장 방법.md",
-    "Key Expansion.jpeg",
-    "라운드 과정.jpeg",
     "암호화 모드.md",
     "암호문 스틸링.md",
     "블록 암호화.md",
-    "블록 암호 vs 스트림 암호.md",
-    "ECB.md",
-    "CBC.md"
+    "블록 암호 vs 스트림 암호.md"
   ]
 }
