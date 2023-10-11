@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSA.md",
+                "file": "암호학.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSA.md",
+                "file": "암호학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSA.md",
+                "file": "암호학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSA.md"
+                "file": "암호학.md"
               }
             }
           },
@@ -157,41 +158,41 @@
   },
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
-    "카마이클 수.md",
+    "AES.md",
+    "feistel.md",
+    "암호학.md",
+    "암호 해독 방식.md",
+    "Ciphertext-only Attack.md",
+    "Pasted image 20231011212652.png",
+    "Known-plaintext Attack.md",
+    "Pasted image 20231011212641.png",
+    "Chosen-ciphertext attacks - CCA.md",
+    "Pasted image 20231011212623.png",
+    "Chosen-plaintext Attack.md",
+    "Pasted image 20231011212606.png",
+    "RSA에 대한 공격 방법.md",
     "RSA.md",
-    "공개 키 암호.md",
+    "RSA-OAEP.md",
+    "Pasted image 20231011211733.png",
+    "동형.md",
+    "Pasted image 20231011211604.png",
+    "Pasted image 20231011211353.png",
+    "패딩.md",
+    "Pasted image 20231011211102.png",
+    "복호화 오라클.md",
+    "RSA 키 만드는 방법.md",
+    "카마이클 함수.md",
+    "카마이클 수.md",
+    "카마이클.md",
+    "오일러 피 함수.md",
+    "reduced set of residues.md",
     "효율적인 복호화.md",
     "중국인의 나머지 정리.md",
     "효율적인 암호화.md",
-    "키 표현법.md",
-    "키 보내기(분배).md",
-    "이산로그 (Discrete Logarithms).md",
-    "원시근 (primitive root).md",
-    "비대칭 키 알고리즘.md",
-    "디지털 서명.md",
     "대칭 키 알고리즘.md",
     "공개키 암호의 송신방법.md",
-    "공개 키 암호의 요구조건.md",
-    "one-way function.md",
-    "RSA 키 만드는 방법.md",
+    "스트림 암호.md",
     "Pasted image 20231010103253.png",
-    "Pasted image 20231010102828.png",
-    "Pasted image 20231010102633.png",
-    "Pasted image 20231010102509.png",
-    "Pasted image 20231010102455.png",
-    "Pasted image 20231005150726.png",
-    "Pasted image 20231005150443.png",
-    "Diffie-Hellman.md",
-    "DSS.md",
-    "정수론.md",
-    "소수 판정.md",
-    "암호학.md",
-    "오일러 정리.md",
-    "오일러 피 함수.md",
-    "reduced set of residues.md",
-    "암호화 알고리즘.md",
-    "Pasted image 20230929144008.png",
-    "Pasted image 20230929142744.png",
-    "Pasted image 20230929142137.png"
+    "Pasted image 20231010102828.png"
   ]
 }
