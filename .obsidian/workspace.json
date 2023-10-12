@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fei",
+                "query": "OAEp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,9 +158,9 @@
   },
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
-    "RSA에 대한 공격 방법.md",
     "Chosen-ciphertext attacks - CCA.md",
     "RSA-OAEP.md",
+    "RSA에 대한 공격 방법.md",
     "동형.md",
     "RSA.md",
     "효율적인 복호화.md",
