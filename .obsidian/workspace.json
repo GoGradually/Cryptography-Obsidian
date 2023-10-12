@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chosen-ciphertext attacks - CCA.md",
+                "file": "RSA-OAEP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chosen-ciphertext attacks - CCA.md",
+                "file": "RSA-OAEP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chosen-ciphertext attacks - CCA.md",
+                "file": "RSA-OAEP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chosen-ciphertext attacks - CCA.md"
+                "file": "RSA-OAEP.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
     "RSA에 대한 공격 방법.md",
+    "Chosen-ciphertext attacks - CCA.md",
+    "RSA-OAEP.md",
+    "동형.md",
     "RSA.md",
     "효율적인 복호화.md",
     "공개 키 암호.md",
@@ -172,13 +175,10 @@
     "Pasted image 20231011212652.png",
     "Known-plaintext Attack.md",
     "Pasted image 20231011212641.png",
-    "Chosen-ciphertext attacks - CCA.md",
     "Pasted image 20231011212623.png",
     "Chosen-plaintext Attack.md",
     "Pasted image 20231011212606.png",
-    "RSA-OAEP.md",
     "Pasted image 20231011211733.png",
-    "동형.md",
     "Pasted image 20231011211604.png",
     "Pasted image 20231011211353.png",
     "패딩.md",
