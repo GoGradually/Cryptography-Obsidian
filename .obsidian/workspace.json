@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "암호학.md",
+                "file": "Chosen-ciphertext attacks - CCA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "암호학.md",
+                "file": "Chosen-ciphertext attacks - CCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "암호학.md",
+                "file": "Chosen-ciphertext attacks - CCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "암호학.md"
+                "file": "Chosen-ciphertext attacks - CCA.md"
               }
             }
           },
@@ -158,9 +158,15 @@
   },
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
-    "AES.md",
-    "feistel.md",
+    "RSA에 대한 공격 방법.md",
+    "RSA.md",
+    "효율적인 복호화.md",
+    "공개 키 암호.md",
     "암호학.md",
+    "정수론.md",
+    "중국인의 나머지 정리.md",
+    "feistel.md",
+    "AES.md",
     "암호 해독 방식.md",
     "Ciphertext-only Attack.md",
     "Pasted image 20231011212652.png",
@@ -170,8 +176,6 @@
     "Pasted image 20231011212623.png",
     "Chosen-plaintext Attack.md",
     "Pasted image 20231011212606.png",
-    "RSA에 대한 공격 방법.md",
-    "RSA.md",
     "RSA-OAEP.md",
     "Pasted image 20231011211733.png",
     "동형.md",
@@ -186,12 +190,8 @@
     "카마이클.md",
     "오일러 피 함수.md",
     "reduced set of residues.md",
-    "효율적인 복호화.md",
-    "중국인의 나머지 정리.md",
     "효율적인 암호화.md",
     "대칭 키 알고리즘.md",
-    "공개키 암호의 송신방법.md",
-    "스트림 암호.md",
     "Pasted image 20231010103253.png",
     "Pasted image 20231010102828.png"
   ]
