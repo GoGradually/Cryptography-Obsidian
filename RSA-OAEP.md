@@ -5,7 +5,7 @@
 x와 y를 함께 암호화한다.
 장점
 - deterministic -> probabilistic : r이 이를 구현해낸다
-- all or nothing -> G와 H가 이를 구현해낸다...?
+- all or nothing -> G와 H가 이를 구현해낸다
 
 
 ![[Pasted image 20231011211733.png]]
