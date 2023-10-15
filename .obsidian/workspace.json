@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "암호화 모드.md",
+                "file": "오일러 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OAEp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "암호화 모드.md",
+                "file": "오일러 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "암호화 모드.md",
+                "file": "오일러 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "암호화 모드.md"
+                "file": "오일러 정리.md"
               }
             }
           },
@@ -158,9 +158,16 @@
   },
   "active": "ab51c2b5eb95d578",
   "lastOpenFiles": [
-    "암호문 스틸링.md",
-    "암호화 모드.md",
+    "정수론.md",
+    "중국인의 나머지 정리.md",
+    "페르마의 작은 정리.md",
+    "오일러 정리.md",
     "암호학.md",
+    "암호 해독 방식.md",
+    "확장 유클리드 알고리즘.md",
+    "모듈러 역원.md",
+    "암호화 모드.md",
+    "암호문 스틸링.md",
     "블록 암호.md",
     "스트림 암호.md",
     "XTS-AES.md",
@@ -172,11 +179,8 @@
     "동형.md",
     "효율적인 복호화.md",
     "공개 키 암호.md",
-    "정수론.md",
-    "중국인의 나머지 정리.md",
     "feistel.md",
     "AES.md",
-    "암호 해독 방식.md",
     "Ciphertext-only Attack.md",
     "Pasted image 20231011212652.png",
     "Known-plaintext Attack.md",
@@ -187,11 +191,7 @@
     "Pasted image 20231011211733.png",
     "Pasted image 20231011211604.png",
     "Pasted image 20231011211353.png",
-    "패딩.md",
     "Pasted image 20231011211102.png",
-    "복호화 오라클.md",
-    "RSA 키 만드는 방법.md",
-    "카마이클 함수.md",
     "Pasted image 20231010103253.png",
     "Pasted image 20231010102828.png"
   ]
