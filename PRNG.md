@@ -15,3 +15,4 @@ Pseudorandom Number Generator (PRNG)
 - 시드의 테스팅이 가능해야 한다.
 - 보안
 	시드도 무작위성을 지녀야 전혀 예측할 수 없게 된다
+![[Pasted image 20231018184923.png]]

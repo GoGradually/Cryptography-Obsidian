@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "74fe49c134ef1ac9",
+    "id": "a1e2feb111d4410a",
     "type": "split",
     "children": [
       {
-        "id": "f7ea81486b914e8f",
+        "id": "c8cfb2e677312141",
         "type": "tabs",
         "children": [
           {
-            "id": "ab51c2b5eb95d578",
+            "id": "84611576547db5c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b3b3b4d14b8717e",
+    "id": "6b4b965f4dad4d33",
     "type": "split",
     "children": [
       {
-        "id": "cbe4cd9c97b1714e",
+        "id": "89b0d520544eda7b",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf1f6c37dbe359c",
+            "id": "318b791d501f8daf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "5366f66cf683b36a",
+            "id": "833c0c149aa85693",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "28bdf88b09ded071",
+            "id": "a1eac19decc90c79",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 300
   },
   "right": {
-    "id": "4a73cda9b3934f8b",
+    "id": "f52c05a33fe57c4b",
     "type": "split",
     "children": [
       {
-        "id": "58d74eab1735c47c",
+        "id": "e31830c9a1f5e833",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c5ae8e372d3212",
+            "id": "d023a10a9a8025d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "465870f7922822d6",
+            "id": "085d78fcced653c1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "625a4d32f4f230e5",
+            "id": "6ac85e6bcabb77eb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,7 @@
             }
           },
           {
-            "id": "01fb3750efd24b7f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CTR_DRBG.md"
-              }
-            }
-          },
-          {
-            "id": "342b9652c8d66e85",
+            "id": "8ee973320b62db60",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,12 +128,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "cc24138996946323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTR_DRBG.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,74 +156,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ab51c2b5eb95d578",
+  "active": "84611576547db5c2",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "RSA 키 만드는 방법.md",
-    "RSA.md",
-    "오일러 정리.md",
-    "효율적인 암호화.md",
-    "효율적인 복호화.md",
-    "공개 키 암호.md",
-    "암호학.md",
-    "정수론.md",
-    "중국인의 나머지 정리.md",
-    "원시근 (primitive root).md",
-    "RSA에 대한 공격 방법.md",
-    "RSA-OAEP.md",
-    "스트림 암호.md",
-    "AES.md",
-    "라운드.md",
-    "라운드 키 추가 (AddRoundKey).md",
-    "AES 키 확장 방법.md",
-    "라운드 키.md",
-    "AES의 데이터 구조.md",
-    "암호화 모드.md",
-    "OFB.md",
-    "XTS-AES.md",
-    "CFB.md",
-    "블록 암호.md",
-    "페르마의 작은 정리.md",
-    "암호 해독 방식.md",
-=======
+    "Pasted image 20231018184949.png",
     "난수 생성.md",
-    "CTR_DRBG.md",
-    "Blum Blum Shub Generator.md",
-    "next-bit test.md",
-    "Linear Congruential Generator.md",
-    "RC4.md",
     "PRNG.md",
-    "backward unpredictability.md",
-    "forward unpredictability.md",
+    "Pasted image 20231018184923.png",
+    "Pasted image 20231018184716.png",
     "TRNG.md",
-    "암호학.md",
-    "스트림 암호.md",
-    "CTR.md",
-    "블록 암호.md",
-    "ECB.md",
-    "CBC.md",
-    "암호화 모드.md",
-    "암호화 알고리즘.md",
-    "정수론.md",
-    "중국인의 나머지 정리.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "오일러 정리.md",
-    "페르마의 작은 정리.md",
-    "암호 해독 방식.md",
-    "확장 유클리드 알고리즘.md",
-    "모듈러 역원.md",
-    "암호문 스틸링.md",
->>>>>>> 39f936d79b70338f8c317d232aa5115d5c9a0715
-    "Pasted image 20231011212652.png",
-    "Pasted image 20231011212641.png",
-    "Pasted image 20231011212623.png",
-    "Pasted image 20231011212606.png",
-    "Pasted image 20231011211733.png",
-    "Pasted image 20231011211604.png",
-    "Pasted image 20231011211353.png",
-    "Pasted image 20231011211102.png",
-    "Pasted image 20231010103253.png",
-    "Pasted image 20231010102828.png"
+    "CTR_DRBG.md",
+    "암호학.md"
   ]
 }
