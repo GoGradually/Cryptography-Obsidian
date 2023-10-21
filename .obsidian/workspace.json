@@ -158,8 +158,11 @@
   "active": "84611576547db5c2",
   "lastOpenFiles": [
     "RSA 키 만드는 방법.md",
-    "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
     "RSA.md",
+    "카마이클 함수.md",
+    "TRNG.md",
+    "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
+    "중국인의 나머지 정리.md",
     "공개 키 암호.md",
     "암호학.md",
     "정수론.md",
@@ -180,9 +183,6 @@
     "모듈러 역원.md",
     "확장 유클리드 알고리즘.md",
     "유한체 다항식의서의 나눗셈.md",
-    "유한체의 다항식으로의 표현.md",
-    "Galois Field.md",
-    "중국인의 나머지 정리.md",
     "Pasted image 20231018184949.png",
     "Pasted image 20231018184923.png",
     "Pasted image 20231018184716.png"
