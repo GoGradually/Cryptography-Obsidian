@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
+                "file": "RSA 키 만드는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
+                "file": "RSA 키 만드는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
+                "file": "RSA 키 만드는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md"
+                "file": "RSA 키 만드는 방법.md"
               }
             }
           }
@@ -155,19 +156,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "84611576547db5c2",
+  "active": "833c0c149aa85693",
   "lastOpenFiles": [
+    "gcd(p-1, q-1) 이 최대한 작아야 하는 이유.md",
     "RSA 키 만드는 방법.md",
+    "gcd(M, pq) != 1 이어도 RSA가 잘 동작하는 이유.md",
     "RSA.md",
-    "카마이클 함수.md",
-    "TRNG.md",
-    "gcd(M, pq) > 1 이어도 RSA가 잘 동작하는 이유.md",
-    "중국인의 나머지 정리.md",
     "공개 키 암호.md",
     "암호학.md",
+    "카마이클 함수.md",
+    "TRNG.md",
+    "중국인의 나머지 정리.md",
     "정수론.md",
     "오일러 정리.md",
-    "gcd(p-1, q-1) 이 최대한 작아야 하는 이유.md",
     "RSA에 대한 공격 방법.md",
     "RSA-OAEP.md",
     "밀러 라빈 소수 판정.md",
