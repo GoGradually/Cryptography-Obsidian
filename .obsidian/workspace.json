@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSA 키 만드는 방법.md",
+                "file": "중간자 공격.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f52c05a33fe57c4b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSA 키 만드는 방법.md",
+                "file": "중간자 공격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSA 키 만드는 방법.md",
+                "file": "중간자 공격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSA 키 만드는 방법.md"
+                "file": "중간자 공격.md"
               }
             }
           }
@@ -144,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +155,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "833c0c149aa85693",
+  "active": "84611576547db5c2",
   "lastOpenFiles": [
-    "gcd(p-1, q-1) 이 최대한 작아야 하는 이유.md",
+    "Diffie-Hellman.md",
+    "중간자 공격.md",
+    "Pasted image 20231101003945.png",
+    "Pasted image 20231101003907.png",
+    "암호학.md",
     "RSA 키 만드는 방법.md",
+    "gcd(p-1, q-1) 이 최대한 작아야 하는 이유.md",
     "gcd(M, pq) != 1 이어도 RSA가 잘 동작하는 이유.md",
     "RSA.md",
     "공개 키 암호.md",
-    "암호학.md",
     "카마이클 함수.md",
     "TRNG.md",
     "중국인의 나머지 정리.md",
@@ -182,8 +185,6 @@
     "CTR.md",
     "OFB.md",
     "모듈러 역원.md",
-    "확장 유클리드 알고리즘.md",
-    "유한체 다항식의서의 나눗셈.md",
     "Pasted image 20231018184949.png",
     "Pasted image 20231018184923.png",
     "Pasted image 20231018184716.png"
