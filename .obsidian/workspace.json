@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중간자 공격.md",
+                "file": "엘가말 암호.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중간자 공격.md",
+                "file": "엘가말 암호.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "중간자 공격.md",
+                "file": "엘가말 암호.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "중간자 공격.md"
+                "file": "엘가말 암호.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   "active": "84611576547db5c2",
   "lastOpenFiles": [
     "Diffie-Hellman.md",
+    "엘가말 암호.md",
     "중간자 공격.md",
     "Pasted image 20231101003945.png",
     "Pasted image 20231101003907.png",
@@ -184,7 +185,6 @@
     "CFB.md",
     "CTR.md",
     "OFB.md",
-    "모듈러 역원.md",
     "Pasted image 20231018184949.png",
     "Pasted image 20231018184923.png",
     "Pasted image 20231018184716.png"
