@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSASSA-PSS.md",
+                "file": "ECC Encryption&Decryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSASSA-PSS.md",
+                "file": "ECC Encryption&Decryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSASSA-PSS.md",
+                "file": "ECC Encryption&Decryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSASSA-PSS.md"
+                "file": "ECC Encryption&Decryption.md"
               }
             }
           }
@@ -158,11 +157,16 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
+    "유한체 위에서의 타원곡선에서의 덧셈.md",
+    "ECC Encryption&Decryption.md",
+    "ECC Encryption/Decryption.md",
+    "ECC Encryption",
+    "ECC Diffie-Hellman.md",
+    "타원곡선 암호.md",
+    "Pasted image 20231102161716.png",
     "암호학.md",
     "RSASSA-PSS.md",
-    "타원곡선 암호.md",
     "엘가말 암호.md",
-    "유한체 위에서의 타원곡선에서의 덧셈.md",
     "타원곡선에서의 덧셈.md",
     "타원곡선.md",
     "Pasted image 20231101171733.png",
@@ -185,9 +189,6 @@
     "RSA에 대한 공격 방법.md",
     "RSA-OAEP.md",
     "카마이클 함수.md",
-    "오일러 피 함수.md",
-    "gcd(p-1, q-1) 이 최대한 작아야 하는 이유.md",
-    "TRNG.md",
     "Pasted image 20231018184949.png",
     "Pasted image 20231018184923.png",
     "Pasted image 20231018184716.png"
