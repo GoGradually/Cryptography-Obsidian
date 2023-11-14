@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "해시 함수.md",
+                "file": "GCM.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "해시 함수.md",
+                "file": "GCM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "해시 함수.md",
+                "file": "GCM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "해시 함수.md"
+                "file": "GCM.md"
               }
             }
           }
@@ -158,40 +157,40 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
-    "SHA-3.md",
-    "Pasted image 20231109180530.png",
-    "Pasted image 20231109180454.png",
-    "해시 함수.md",
-    "SHA-2.md",
-    "Pasted image 20231107101024.png",
-    "생일 공격.md",
-    "Pasted image 20231107100652.png",
-    "Pasted image 20231107095928.png",
+    "Pasted image 20231114223029.png",
+    "GCM.md",
+    "Pasted image 20231114215135.png",
+    "Pasted image 20231114221552.png",
+    "Pasted image 20231114210138.png",
+    "Pasted image 20231114205524.png",
+    "Pasted image 20231114160357.png",
+    "Pasted image 20231114160329.png",
+    "Pasted image 20231114160109.png",
+    "Pasted image 20231114155717.png",
+    "Pasted image 20231114154312.png",
+    "one-way function.md",
+    "PRNG.md",
+    "GCTR.md",
+    "GHASH.md",
+    "유한체 다항식에서의 곱셈.md",
+    "인증 암호 - CCM & GCM.md",
+    "CCM.md",
+    "메시지 인증.md",
+    "블록 암호에 기반한 MAC - DAA & CMAC.md",
+    "해시 함수에 기반한 MAC - HMAC.md",
+    "CMAC.md",
+    "Data Authentication Algorithm.md",
+    "패딩.md",
     "MAC.md",
+    "공개 키 메시지 암호화.md",
+    "대칭 키 메시지 암호화.md",
     "암호학.md",
-    "Pasted image 20231107095227.png",
+    "해시 함수.md",
+    "SHA-3.md",
+    "SHA-2.md",
+    "생일 공격.md",
     "Digital Signature.md",
-    "Pasted image 20231107094138.png",
-    "Pasted image 20231107094136.png",
-    "Pasted image 20231107094123.png",
-    "Pasted image 20231107093853.png",
     "중간자 공격.md",
-    "RSASSA-PSS.md",
-    "RSA-OAEP.md",
-    "ECC Encryption&Decryption.md",
-    "ECC Diffie-Hellman.md",
-    "타원곡선 암호.md",
-    "엘가말 암호.md",
-    "유한체 위에서의 타원곡선에서의 덧셈.md",
-    "타원곡선에서의 덧셈.md",
-    "타원곡선.md",
-    "Diffie-Hellman.md",
-    "중국인의 나머지 정리.md",
-    "gcd(M, pq) != 1 이어도 RSA가 잘 동작하는 이유.md",
-    "RSA 키 만드는 방법.md",
-    "RSA.md",
-    "공개 키 암호.md",
-    "키 표현법.md",
-    "정수론.md"
+    "RSASSA-PSS.md"
   ]
 }
