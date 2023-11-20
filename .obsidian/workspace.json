@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCM.md",
+                "file": "DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCM.md",
+                "file": "DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCM.md",
+                "file": "DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCM.md"
+                "file": "DSA.md"
               }
             }
           }
@@ -157,8 +157,22 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
-    "Pasted image 20231114223029.png",
+    "DSS.md",
+    "Pasted image 20231120195130.png",
+    "디지털 서명.md",
+    "공개 키 암호.md",
+    "DSA.md",
+    "암호학.md",
+    "슈노르 디지털 서명.md",
+    "엘가말 디지털 서명.md",
+    "디지털 서명 요구사항.md",
+    "디지털 서명 위조 방식.md",
+    "디지털 서명 공격 방법.md",
+    "RSASSA-PSS.md",
+    "메시지 인증.md",
+    "인증 암호 - CCM & GCM.md",
     "GCM.md",
+    "Pasted image 20231114223029.png",
     "Pasted image 20231114215135.png",
     "Pasted image 20231114221552.png",
     "Pasted image 20231114210138.png",
@@ -167,30 +181,16 @@
     "Pasted image 20231114160329.png",
     "Pasted image 20231114160109.png",
     "Pasted image 20231114155717.png",
-    "Pasted image 20231114154312.png",
     "one-way function.md",
     "PRNG.md",
     "GCTR.md",
     "GHASH.md",
     "유한체 다항식에서의 곱셈.md",
-    "인증 암호 - CCM & GCM.md",
     "CCM.md",
-    "메시지 인증.md",
     "블록 암호에 기반한 MAC - DAA & CMAC.md",
     "해시 함수에 기반한 MAC - HMAC.md",
     "CMAC.md",
     "Data Authentication Algorithm.md",
-    "패딩.md",
-    "MAC.md",
-    "공개 키 메시지 암호화.md",
-    "대칭 키 메시지 암호화.md",
-    "암호학.md",
-    "해시 함수.md",
-    "SHA-3.md",
-    "SHA-2.md",
-    "생일 공격.md",
-    "Digital Signature.md",
-    "중간자 공격.md",
-    "RSASSA-PSS.md"
+    "패딩.md"
   ]
 }
