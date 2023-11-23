@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA.md",
+                "file": "암호학.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA.md",
+                "file": "암호학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA.md",
+                "file": "암호학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA.md"
+                "file": "암호학.md"
               }
             }
           }
@@ -157,12 +157,14 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
-    "DSS.md",
-    "Pasted image 20231120195130.png",
-    "디지털 서명.md",
-    "공개 키 암호.md",
-    "DSA.md",
+    "ECDSA.md",
     "암호학.md",
+    "DSS.md",
+    "DSA.md",
+    "공개 키 암호.md",
+    "비대칭 키 알고리즘.md",
+    "디지털 서명.md",
+    "Pasted image 20231120195130.png",
     "슈노르 디지털 서명.md",
     "엘가말 디지털 서명.md",
     "디지털 서명 요구사항.md",
@@ -190,7 +192,6 @@
     "블록 암호에 기반한 MAC - DAA & CMAC.md",
     "해시 함수에 기반한 MAC - HMAC.md",
     "CMAC.md",
-    "Data Authentication Algorithm.md",
-    "패딩.md"
+    "Data Authentication Algorithm.md"
   ]
 }
