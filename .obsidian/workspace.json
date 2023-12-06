@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공인인증서.md",
-                "mode": "source",
+                "file": "인증 암호 - CCM & GCM.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aes",
+                "query": "GCM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공인인증서.md",
+                "file": "인증 암호 - CCM & GCM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공인인증서.md",
+                "file": "인증 암호 - CCM & GCM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공인인증서.md"
+                "file": "인증 암호 - CCM & GCM.md"
               }
             }
           }
@@ -157,41 +158,41 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
-    "사용자 인증.md",
+    "암호학.md",
+    "메시지 인증.md",
+    "인증 암호 - CCM & GCM.md",
+    "MAC.md",
+    "GCM.md",
+    "GHASH.md",
+    "CCM.md",
+    "블록 암호에 기반한 MAC - DAA & CMAC.md",
+    "해시 함수에 기반한 MAC - HMAC.md",
+    "DSS.md",
+    "DSA.md",
+    "Diffie-Hellman.md",
+    "해시 함수.md",
+    "SHA-2.md",
+    "생일 공격.md",
+    "ECDSA.md",
+    "타원곡선 암호.md",
+    "유한체 위에서의 타원곡선에서의 덧셈.md",
+    "ECC Encryption&Decryption.md",
+    "타원곡선에서의 덧셈.md",
+    "엘가말 암호.md",
+    "중간자 공격.md",
+    "RSA.md",
+    "디지털 서명 위조 방식.md",
+    "디지털 서명.md",
+    "디지털 서명 공격 방법.md",
     "Pasted image 20231204155031.png",
     "Pasted image 20231204155009.png",
-    "Kerberos.md",
-    "KDC.md",
-    "공인인증서 구조.md",
-    "공인인증서.md",
     "Pasted image 20231128214514.png",
     "Pasted image 20231128213318.png",
     "Pasted image 20231128213148.png",
     "Pasted image 20231128213140.png",
     "Pasted image 20231128213115.png",
     "Pasted image 20231128212957.png",
-    "공개 키 공유.md",
-    "공개된 중앙화 공간.md",
     "Pasted image 20231128011402.png",
-    "공개된 DIR.md",
-    "Pasted image 20231128011347.png",
-    "공개된 발표센터.md",
-    "키 관리와 분배.md",
-    "비밀 키 공유(대칭키 공유).md",
-    "분산화된 키 분배.md",
-    "키의 사용처 제어.md",
-    "키 자동 분배.md",
-    "키 보내기(분배).md",
-    "암호학.md",
-    "ECDSA.md",
-    "DSS.md",
-    "DSA.md",
-    "공개 키 암호.md",
-    "비대칭 키 알고리즘.md",
-    "디지털 서명.md",
-    "슈노르 디지털 서명.md",
-    "엘가말 디지털 서명.md",
-    "디지털 서명 요구사항.md",
-    "디지털 서명 위조 방식.md"
+    "Pasted image 20231128011347.png"
   ]
 }

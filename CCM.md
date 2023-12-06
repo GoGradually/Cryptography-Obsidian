@@ -1,6 +1,7 @@
 Counter with Cipher Block Chaining-Message Authentication Code.
 CBC-MAC
 Encrypt then MAC 의 응용.
+CMAC 에 카운터 모드를 추가한 형태
 ### MAC
 ![[Pasted image 20231114205524.png]]
 - Nonce = 한번 쓰고 버리는 난수

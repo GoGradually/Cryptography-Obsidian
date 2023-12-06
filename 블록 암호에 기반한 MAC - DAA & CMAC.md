@@ -1,6 +1,6 @@
 ## DAA (Data Authentication Algorithm)
 ![[Pasted image 20231114155717.png]]
-
+CBC
 IV = 0
 마지막 $D_N$은 길이가 맞지 않으면 0으로 패딩한다
 최종 출력 $O_N$ 중 MSB 16~64bit 만 활용한다.
