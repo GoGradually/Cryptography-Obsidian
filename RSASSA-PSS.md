@@ -1,6 +1,10 @@
 ![[Pasted image 20231209221537.png]]
 비둘기집의 원리
 
+salt size = hash size
+
+DB size = RSAKEYSIZE - HASHSIZE - 1
+
 인증은 모든 비트를 인증값으로 쓰지 않는다
 
 해쉬 함수를 통과한 값만 암호화 한다
