@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA.md",
-                "mode": "preview",
+                "file": "기말고사 시험공부.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA.md",
+                "file": "기말고사 시험공부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA.md",
+                "file": "기말고사 시험공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA.md"
+                "file": "기말고사 시험공부.md"
               }
             }
           }
@@ -158,20 +158,25 @@
   },
   "active": "84611576547db5c2",
   "lastOpenFiles": [
+    "Kerberos.md",
     "기말고사 시험공부.md",
+    "공인인증서.md",
+    "DSA.md",
+    "GHASH.md",
+    "DHE-RSA.md",
+    "암호학.md",
+    "키 교환 vs 키 동의.md",
+    "공인인증서 구조.md",
+    "KDC.md",
+    "사용자 인증.md",
+    "RSASSA-PSS.md",
+    "ECDSA.md",
     "슈노르 디지털 서명.md",
     "엘가말 디지털 서명.md",
-    "ECDSA.md",
-    "DSA.md",
     "타원곡선 암호.md",
-    "암호학.md",
-    "공인인증서.md",
     "공개 키 공유.md",
     "키 관리와 분배.md",
-    "사용자 인증.md",
-    "KDC.md",
     "DSS.md",
-    "RSASSA-PSS.md",
     "Pasted image 20231210134902.png",
     "Pasted image 20231209221537.png",
     "CCM.md",
@@ -179,16 +184,11 @@
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "해시 함수에 기반한 MAC - HMAC.md",
-    "키 교환 vs 키 동의.md",
     "영 지식 증명.md",
     "Pasted image 20231207150651.png",
-    "DHE-RSA.md",
     "Commitment Scheme.md",
     "메시지 인증.md",
     "디지털 서명.md",
-    "인증 암호 - CCM & GCM.md",
-    "GCM.md",
-    "GHASH.md",
     "Pasted image 20231204155031.png",
     "Pasted image 20231204155009.png",
     "Pasted image 20231128214514.png",
