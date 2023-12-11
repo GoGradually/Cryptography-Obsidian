@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "엘가말 디지털 서명.md",
+                "file": "공인인증서.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "엘가말 디지털 서명.md",
+                "file": "공인인증서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "엘가말 디지털 서명.md",
+                "file": "공인인증서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "엘가말 디지털 서명.md"
+                "file": "공인인증서.md"
               }
             }
           }
@@ -159,36 +159,36 @@
   "active": "84611576547db5c2",
   "lastOpenFiles": [
     "기말고사 시험공부.md",
+    "DHE-RSA.md",
     "DSA.md",
+    "Kerberos.md",
+    "ECDSA.md",
+    "RSASSA-PSS.md",
+    "GHASH.md",
+    "GCM.md",
+    "GCTR.md",
+    "CCM.md",
+    "블록 암호에 기반한 MAC - DAA & CMAC.md",
+    "해시 함수에 기반한 MAC - HMAC.md",
+    "엘가말 암호.md",
+    "Diffie-Hellman.md",
     "엘가말 디지털 서명.md",
     "슈노르 디지털 서명.md",
-    "해시 함수에 기반한 MAC - HMAC.md",
-    "GCM.md",
-    "GHASH.md",
-    "Kerberos.md",
     "공인인증서.md",
-    "DHE-RSA.md",
     "암호학.md",
     "키 교환 vs 키 동의.md",
     "공인인증서 구조.md",
     "KDC.md",
     "사용자 인증.md",
-    "RSASSA-PSS.md",
-    "ECDSA.md",
     "타원곡선 암호.md",
     "공개 키 공유.md",
     "키 관리와 분배.md",
     "DSS.md",
     "Pasted image 20231210134902.png",
     "Pasted image 20231209221537.png",
-    "CCM.md",
-    "블록 암호에 기반한 MAC - DAA & CMAC.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "영 지식 증명.md",
     "Pasted image 20231207150651.png",
-    "Commitment Scheme.md",
-    "메시지 인증.md",
     "Pasted image 20231204155031.png",
     "Pasted image 20231204155009.png",
     "Pasted image 20231128214514.png",

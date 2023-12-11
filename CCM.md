@@ -1,8 +1,8 @@
 Counter with Cipher Block Chaining-Message Authentication Code.
 CBC-MAC
-Encrypt then MAC 의 응용.
+Encrypt then MAC 의 변종.
 CMAC 에 카운터 모드를 추가한 형태
-### MAC
+### CMAC
 ![[Pasted image 20231114205524.png]]
 - Nonce = 한번 쓰고 버리는 난수
 - Ass. Data = 인증은 되지만 암호화되지 않는 관련 데이터 A. ex) 올바른 프로토콜 동작을 위해서 평문 형태로 전송되어야하지만 인증이 필요한 프로토콜 헤더
